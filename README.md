@@ -3,4 +3,4 @@
 * Clone repo
 * Create Heroku App
 * Push Clone to Heroku
-* Update cors-anywhere URL to <your app name>.heroku.app 
+* Update cors-anywhere URL to your-app-name.heroku.app 
